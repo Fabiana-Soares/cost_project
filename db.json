@@ -1,0 +1,47 @@
+{
+  "projects": [
+    {
+      "id": "3fb4",
+      "name": "teste5",
+      "budget": "5001",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": -1316,
+      "services": [],
+      "service": [
+        {
+          "name": "novo serviço",
+          "description": "blabla",
+          "cost": "100",
+          "id": "def2a83a-a5a6-4ad3-8de2-0292e2c3fa3e"
+        },
+        {
+          "name": "oi",
+          "cost": "2",
+          "description": "oi",
+          "id": "ddd3792a-de16-4121-a618-9d2a15c1847d"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
